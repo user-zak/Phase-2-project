@@ -1,7 +1,7 @@
 # House Renovation Using Linear Regression For SmartRenovation Realty
 
 ## Overview
-![Real Estate](Image.jpeg)
+![Real Estate](Images/Image.jpegImage.jpeg)
 Within this repository, you will find a comprehensive analysis of the King County real estate market, tailored to support SmartRenovate Realty in making well-informed investment decisions. The analysis harnesses the power of statistical modeling to uncover pivotal factors that shape property prices and return on investment. By delving into these insights, SmartRenovate Realty can strategically acquire properties, devise effective renovation plans, and optimize the timing of property resale. Through these measures, SmartRenovate Realty aims to achieve maximum profitability and thrive in the dynamic real estate landscape.
 
 ## Business Understanding
@@ -21,22 +21,22 @@ The analysis utilizes multiple linear regression, a statistical model, to examin
 ## Model Comparison
 First Model Compared to The last one:
 
-![model](model.png)
+![model](Images/model.png)
 
 ## Model Validation
 
-![priced](priced.png)
+![priced](Images/price.png)
 ## Regression Results
 
 The regression analysis yielded several significant findings:
 
 - Property location, particularly proximity to Lake Union, has a strong positive impact on property prices.
-![location](map.png)
+![location](Images/map.png)
 
 SmartRenovate Realty can enhance property value by strategically increasing the size of houses through renovations. Additionally, investing in properties with grades presents a lucrative opportunity for increasing market value. By renovating and improving these properties, SmartRenovate Realty can maximize profitability. Success in the real estate market relies on conducting thorough market research, performing comprehensive property evaluations, and implementing strategic renovation plans to capitalize on market trends and buyer preferences.
-![sqft](Sqft.png)
+![sqft](Images/Sqft.png)
 - The model suggests that spring, with its favorable market conditions and increased buyer activity, could be a good season for purchasing properties in Lake Union but i cannot back this fact.
-![season](Seasons.png)
+![season](Images/Seasons.png)
 
 ## Conclusion
 
@@ -48,3 +48,17 @@ Size of the House: The visualization also demonstrates a positive relationship b
 
 
 ## Repository Structure
+├── Data
+│   ├── column_names.md
+│   └── kc_house_data.csv
+├── Images
+│   ├── Image.jpeg
+│   ├── map.png
+│   ├── model.png
+│   ├── price.png
+│   ├── Seasons.png
+│   └── Sqft.png
+├── Presentation.pdf
+├── README.md
+└── student.ipynb
+
