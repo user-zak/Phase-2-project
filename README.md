@@ -48,7 +48,7 @@ Size of the House: The visualization also demonstrates a positive relationship b
 
 
 ## Repository Structure
-(
+```
 ├── Data
 │   ├── column_names.md
 │   └── kc_house_data.csv
@@ -62,4 +62,4 @@ Size of the House: The visualization also demonstrates a positive relationship b
 ├── Presentation.pdf
 ├── README.md
 └── student.ipynb
-)
+```
