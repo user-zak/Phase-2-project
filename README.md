@@ -1,7 +1,7 @@
 # House Renovation Using Linear Regression For SmartRenovation Realty
 
 ## Overview
-![Real Estate](Images/Image.jpegImage.jpeg)
+![Real Estate](Images/Image.jpeg)
 Within this repository, you will find a comprehensive analysis of the King County real estate market, tailored to support SmartRenovate Realty in making well-informed investment decisions. The analysis harnesses the power of statistical modeling to uncover pivotal factors that shape property prices and return on investment. By delving into these insights, SmartRenovate Realty can strategically acquire properties, devise effective renovation plans, and optimize the timing of property resale. Through these measures, SmartRenovate Realty aims to achieve maximum profitability and thrive in the dynamic real estate landscape.
 
 ## Business Understanding
@@ -48,7 +48,7 @@ Size of the House: The visualization also demonstrates a positive relationship b
 
 
 ## Repository Structure
-"""
+(
 ├── Data
 │   ├── column_names.md
 │   └── kc_house_data.csv
@@ -62,4 +62,4 @@ Size of the House: The visualization also demonstrates a positive relationship b
 ├── Presentation.pdf
 ├── README.md
 └── student.ipynb
-"""
+)
