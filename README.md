@@ -1,7 +1,7 @@
 # House Renovation Using Linear Regression For SmartRenovation Realty
 
 ## Overview
-![Real Estate](img/house_sale.jpg)
+![Real Estate](Image.jpg)
 Within this repository, you will find a comprehensive analysis of the King County real estate market, tailored to support SmartRenovate Realty in making well-informed investment decisions. The analysis harnesses the power of statistical modeling to uncover pivotal factors that shape property prices and return on investment. By delving into these insights, SmartRenovate Realty can strategically acquire properties, devise effective renovation plans, and optimize the timing of property resale. Through these measures, SmartRenovate Realty aims to achieve maximum profitability and thrive in the dynamic real estate landscape.
 
 ## Business and Data Understanding
@@ -20,10 +20,10 @@ First Model Compared to The last one:
 The regression analysis yielded several significant findings:
 
 - Property location, particularly proximity to Lake Union, has a strong positive impact on property prices.
-![location](map.jpg)
+![location](map.png)
 
 SmartRenovate Realty can enhance property value by strategically increasing the size of houses through renovations. Additionally, investing in properties with grades presents a lucrative opportunity for increasing market value. By renovating and improving these properties, SmartRenovate Realty can maximize profitability. Success in the real estate market relies on conducting thorough market research, performing comprehensive property evaluations, and implementing strategic renovation plans to capitalize on market trends and buyer preferences.
-![sqft](sqft.png)
+![sqft](Sqft.png)
 - The model suggests that spring, with its favorable market conditions and increased buyer activity, could be a good season for purchasing properties in Lake Union but i cannot back this fact.
 ![season](Seasons.png)
 
