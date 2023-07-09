@@ -12,7 +12,10 @@ SmartRenovate Realty specializes in purchasing and renovating properties to incr
 
 The analysis utilizes multiple linear regression, a statistical model, to examine the connection between different predictors and property prices. Key factors such as location, property condition, and various attributes are taken into account to identify significant drivers of property value. By analyzing these factors, the model provides valuable insights into how they influence pricing. This enables SmartRenovate Realty to make informed decisions based on data when selecting properties, devising renovation strategies, and determining the optimal timing for resale. The statistical analysis empowers SmartRenovate Realty with the knowledge needed to maximize profitability and make strategic choices throughout the real estate investment process.
 
+## Model Comparison
 First Model Compared to The last one:
+
+![model](model.png)
 
 
 ## Regression Results
