@@ -46,7 +46,10 @@ Focus on Lake Union Properties: The map visualization showcases properties on La
 
 Size of the House: The visualization also demonstrates a positive relationship between the size of the house and its price. Smaller houses tend to have lower prices, while larger houses command higher prices. As a recommendation, the company can consider acquiring smaller-sized houses and undertaking renovation projects to increase their value. By renovating and expanding the living space, the company can potentially sell these properties at a higher price point and generate substantial profits.
 
+Refer to the notebook for more : ![file](student.ipynb)
 
+### Presentation
+Link to the Presentation : ![pre](Presentation.pdf)
 ## Repository Structure
 ```
 ├── Data
